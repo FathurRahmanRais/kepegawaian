@@ -63,7 +63,7 @@
                             <tr>
                                 <td width="20%">
                                     <div class="form-group">
-                                    Nip
+                                    NIP
                                     </div>
                                 </td>
                                 <td width="3%" >
@@ -79,7 +79,7 @@
                                 <td width="1%" ></td>
                                 <td width="22%">
                                     <div class="form-group">
-                                    Pangkat / Golongan 
+                                    Pangkat / Golongan
                                     </div>
                                 </td>
                                 <td width="3%" >
@@ -113,7 +113,7 @@
                                 <td ></td>
                                 <td>
                                     <div class="form-group">
-                                    TMT / Golongan 
+                                    TMT / Golongan   
                                     </div>
                                 </td>
                                 <td>

@@ -92,7 +92,7 @@
                                 <td width="5%"></td>
                                 <td style="color: black;" align="left">
                                     <div class="form-group">
-                                        Nip
+                                        NIP
                                     </div>
                                 </td>
                                 <td style="color: black;" width="5%">
@@ -102,7 +102,7 @@
                                 </td>
                                 <td>
                                     <div class="form-group">
-                                    <input type="text" name="nip" style="color: black;" class="form-control" placeholder="Nip" required oninvalid="this.setCustomValidity('Masukan Nip Terlebih Dahulu')" oninput="setCustomValidity('')" autocomplete="off" onkeypress="return angka(event);">
+                                    <input type="text" name="nip" style="color: black;" class="form-control" placeholder="NIP" required oninvalid="this.setCustomValidity('Masukan Nip Terlebih Dahulu')" oninput="setCustomValidity('')" autocomplete="off" onkeypress="return angka(event);">
                                     </div>
                                 </td>
                                 <td width="5%"></td>
@@ -184,7 +184,7 @@
                                 <td width="5%"></td>
                                 <td style="color: black;" align="left" width="28%">
                                     <div class="form-group">
-                                        Password Konfirmasi
+                                        Ulangi Password
                                     </div>
                                 </td>
                                 <td style="color: black;">
@@ -194,7 +194,7 @@
                                 </td>
                                 <td>
                                     <div class="form-group">
-                                    <input type="password" name="re_password" style="color: black;" class="form-control" placeholder="Re Password" required oninvalid="this.setCustomValidity('Masukan Password Terlebih Dahulu')" oninput="setCustomValidity('')" autocomplete="off">
+                                    <input type="password" name="re_password" style="color: black;" class="form-control" placeholder="Ulagi Password" required oninvalid="this.setCustomValidity('Masukan Password Terlebih Dahulu')" oninput="setCustomValidity('')" autocomplete="off">
                                     </div>
                                 </td>
                                 <td width="5%"></td>
@@ -203,7 +203,7 @@
                         </table>
                         <hr>
                          <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
-                        <a href="http://localhost/Simpeg/" class="pull-left">Sudah punya akun ??</a>
+                        <a href="http://localhost/Simpeg/" class="pull-left">Sudah punya akun?</a>
                         <button type="submit" class="btn btn-primary block pull-right">Simpan</button>
                         <br>
                         </div>
