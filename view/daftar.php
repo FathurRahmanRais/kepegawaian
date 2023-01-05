@@ -50,7 +50,7 @@
          <img src="../logo/bm.png" style="width: 100px;">
     </td>
     <td>
-     <h2><b style="color: orange;">Sistem Informasi Kenaikan Pangkat, Arsip Digital dan Gaji Berkala ( SEPAKAT BEKAWAN) <?php echo $home['nama'];?><br>
+     <h2><b style="color: orange;">Sistem Informasi Kepegawaian <?php echo $home['nama'];?><br>
      <?php echo $home['instansi'];?></b></h2>
      <p style="color: black;text-shadow: 0 0 5px white;"><b><?php echo $home['alamat'];?></b></p>
     </td>
@@ -236,7 +236,7 @@
                             </tr>
                             <tr>
                                 <td width="5%"></td>
-                                <td style="color: black;" align="left" width="28%">
+                                <td style="color: black;" allign="left" width="28%">
                                     <div class="form-group">
                                         Password Konfirmasi
                                     </div>

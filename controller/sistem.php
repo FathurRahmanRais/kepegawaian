@@ -180,7 +180,7 @@
 				if($data 		== TRUE) {
 					echo "<script> 
 						  alert('Proses Pendaftaran Berhasil!,Silahkan Login');
-						  window.location = 'http://localhost/Simpeg/'; 
+						  window.location = 'http://localhost/kepegawaian/'; 
 						  </script>";
 				
 				} 
@@ -316,7 +316,7 @@
 				// MENGARAHKAN KE FILE VIEW/LOGIN.PHP
 				echo "<script> 
 					  alert('Proses Logout Berhasil!'); 
-					  window.location = 'http://localhost/kepegawaian/'; 
+					  window.location = 'index.php'; 
 					  </script>";
 			}
 		
