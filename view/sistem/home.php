@@ -174,7 +174,7 @@ if($_SESSION['level_simpeg']=="admin")
                     ?>
                     <div class="inner">
                       <p>Data Pengguna</p>
-                      <p align="center" style="font-size: 25px;"><b><?php echo $jml_pengguna; ?></b></p>
+                      <p allign="center" style="font-size: 25px;"><b><?php echo $jml_pengguna; ?></b></p>
                     </div>
                     <div class="icon">
                       <i class="fa fa-users"></i>
@@ -184,7 +184,7 @@ if($_SESSION['level_simpeg']=="admin")
                 </div>
             </div>
             <section>
-                <div id="map" style="widht:100%;height:400px;"></div>
+                <div id="map" style="width:100%;height:400px;"></div>
             </section>
             
     </section>
@@ -378,7 +378,7 @@ if($_SESSION['level_simpeg']=="admin")
                     <div class="inner">
                       <p>Jumlah Berkas Masuk</p>
                       <br>
-                      <p align="center" style="font-size: 25px;"><b><?php echo $jml_berkas;?></b></p>
+                      <p allign="center" style="font-size: 25px;"><b><?php echo $jml_berkas;?></b></p>
                     </div>
                     <div class="icon">
                       <i class="fa fa-archive"></i>
@@ -388,7 +388,7 @@ if($_SESSION['level_simpeg']=="admin")
                 </div>
             </div>
     <section>
-               <div id="map" style="widht:100%;height:400px;"></div>
+               <div id="map" style="width:100%;height:400px;"></div>
     </section>
     </section>
      
