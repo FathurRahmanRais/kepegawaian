@@ -231,11 +231,11 @@
 				$foto   			= $_FILES['gambar']['name'];
 				$lokasi 			= $_FILES['gambar']['tmp_name'];
 
-				$foto   			= $username.'_'.$fotox;
+				$foto   			= $username.'_'.$foto;
 				
 				// DARI MODEL
 				// MENGARAH KE METHOD DI CLASS MODEL PENDUDUK
-				$data			= $this->user->UpdateDataPengguna($username,$nip,$nama,$level,$foto,$gender,$lokasi,$fotox);
+				$data			= $this->user->UpdateDataPengguna($username,$nip,$nama,$level,$foto,$gender,$lokasi,$foto);
 				
 				// DARI VIEW
 				// MENGARAHKAN KE FILE VIEW/SELECT.PHP

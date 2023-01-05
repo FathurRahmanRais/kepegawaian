@@ -34,7 +34,7 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    <link rel="shortcut icon" href="../logo/bm.png">
+    <link rel="shortcut icon" href="../logo/2_ikon_logo_lampura.png">
 
 </head>
 <body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/foto.jpg)no-repeat center center fixed;-webkit-background-size: cover;
@@ -46,11 +46,11 @@
 <br>
 <table width="100%"> 
 <tr>
-    <td align="center">         
-         <img src="../logo/bm.png" style="width: 100px;">
+    <td allign="center">         
+         <img src="logo/2_ikon_logo_lampura.png" style="width: 100px;">
     </td>
     <td>
-     <h2><b style="color: orange;">Sistem Informasi Kenaikan Pangkat, Arsip Digital dan Gaji Berkala ( SEPAKAT BEKAWAN) <?php echo $home['nama'];?><br>
+     <h2><b style="color: orange;">Sistem Informasi Kepegawaian <?php echo $home['nama'];?><br>
      <?php echo $home['instansi'];?></b></h2>
      <p style="color: black;text-shadow: 0 0 5px white;"><b><?php echo $home['alamat'];?></b></p>
     </td>
@@ -236,7 +236,7 @@
                             </tr>
                             <tr>
                                 <td width="5%"></td>
-                                <td style="color: black;" align="left" width="28%">
+                                <td style="color: black;" allign="left" width="28%">
                                     <div class="form-group">
                                         Ulangi Password
                                     </div>
@@ -257,7 +257,7 @@
                         </table>
                         <hr>
                          <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
-                        <a href="http://localhost/kepegawaian/" class="pull-left">Sudah punya akun ??</a>
+                        <a href="http://localhost/Simpeg/" class="pull-left">Sudah punya akun ??</a>
                         <button type="submit" class="btn btn-primary block pull-right">Simpan</button>
                         <br>
                         </div>
