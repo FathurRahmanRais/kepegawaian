@@ -46,11 +46,11 @@
 <br>
 <table width="100%"> 
 <tr>
-    <td align="center" width="15%">         
-         <img src="../logo/bm.png" style="width: 100px;">
+    <td allign="center" width="15%">         
+         <img src="../logo/2_ikon_logo_lampura.png" style="width: 100px;">
     </td>
     <td width="85%">
-     <h2><b style="color: white;">Sistem Informasi Kenaikan Pangkat, Kenaikan Gaji Berkala dan Arsip Kepegawaian<?php echo $home['nama'];?><br>
+     <h2><b style="color: white;">Sistem Informasi Kepegawaian <?php echo $home['nama'];?><br>
      <?php echo $home['instansi'];?></b></h2>
      <p style="color: black;text-shadow: 0 0 5px white;"><b><?php echo $home['alamat'];?></b></p>
     </td>
@@ -203,7 +203,7 @@
                         </table>
                         <hr>
                          <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
-                        <a href="http://localhost/Simpeg/" class="pull-left">Sudah punya akun ??</a>
+                        <a href="../index.php" class="pull-left">Sudah punya akun ??</a>
                         <button type="submit" class="btn btn-primary block pull-right">Simpan</button>
                         <br>
                         </div>

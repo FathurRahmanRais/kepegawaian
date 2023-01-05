@@ -34,7 +34,7 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    <link rel="shortcut icon" href="../logo/bm.png">
+    <link rel="shortcut icon" href="../logo/2_ikon_logo_lampura.png">
 
 </head>
 <body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/foto.jpg)no-repeat center center fixed;-webkit-background-size: cover;
@@ -46,8 +46,8 @@
 <br>
 <table width="100%"> 
 <tr>
-    <td align="center">         
-         <img src="../logo/bm.png" style="width: 100px;">
+    <td allign="center">         
+         <img src="logo/2_ikon_logo_lampura.png" style="width: 100px;">
     </td>
     <td>
      <h2><b style="color: orange;">Sistem Informasi Kepegawaian <?php echo $home['nama'];?><br>
