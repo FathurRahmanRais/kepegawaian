@@ -32,7 +32,7 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    <link rel="shortcut icon" href="logo/bm.png">
+    <link rel="shortcut icon" href="logo/2_ikon_Logo_lampura.png">
 
 </head>
 <body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(logo/bg21.jpg)no-repeat center center fixed;-webkit-background-size: cover;
@@ -102,7 +102,7 @@
                   <center>
                         <button type="submit" class="btn btn-primary block  m-b">Masuk</button></center><br>
                         <a href="daftar/" class="pull-left">Buat Akun</a>
-                        <a href="lost/" class="pull-right">lupa Password ??</a>
+                        <a href="lost/" class="pull-right">Lupa Password?</a>
                         <br>
                 </div><hr>
                 <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
@@ -111,14 +111,8 @@
                     <a href="https://www.facebook.com/<?php echo $home['fb'];?>" target="_blank" title="Facebook" class="btn btn-primary" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-facebook"></i></a>
                     <i class="fa fa-fw"></i>
 
-                    <a href="https://www.twitter.com/<?php echo $home['twitter'];?>" target="_blank" title="Twitter" class="btn btn-info" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-twitter"></i></a>
-
                     <i class="fa fa-fw"></i>
                     <a href="https://www.instagram.com/<?php echo $home['ig'];?>" title="Instagram" target="_blank" class="btn btn-danger" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-instagram"></i></a>
-
-                    <i class="fa fa-fw"></i>
-                    <a href="https://drive.google.com/" target="_blank" title="Download Versi Android" class="btn btn-success" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-android"></i></a>
-                </div>
               </div>
               <!-- /.box-footer -->
             </form>
