@@ -257,7 +257,7 @@
                         </table>
                         <hr>
                          <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
-                        <a href="http://localhost/kepegawaian/" class="pull-left">Sudah punya akun ??</a>
+                        <a href="http://localhost/Simpeg/" class="pull-left">Sudah punya akun ??</a>
                         <button type="submit" class="btn btn-primary block pull-right">Simpan</button>
                         <br>
                         </div>
