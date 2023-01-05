@@ -52,7 +52,7 @@
          <img src="../logo/bm.png" style="width: 80%;">
     </td>
     <td width="80%">
-     <b style="font-size: 10px;text-shadow: 0 0 5px white;">Sistem Informasi Kenaikan Pangkat dan Kenaikan Gaji Berkala (SEPAKAT BEKAWAN) <?php echo $home['nama'];?><br>
+     <b style="font-size: 10px;text-shadow: 0 0 5px white;">Sistem Informasi Kepegawaian <?php echo $home['nama'];?><br>
      <?php echo $home['instansi'];?></b>
      <p style="color: black;text-shadow: 0 0 5px white;font-size: 8px;"><b><?php echo $home['alamat'];?></b></p>
     </td>
