@@ -110,7 +110,7 @@
 			}
 
 		// QUERY UNTUK MENGUBAH DATA (UPDATE)
-			function dataUpdate($id,$nama_profil,$judul,$provinsi,$kota,$alamat,$foto,$lokasi,$fb,$twitter,$ig,$fotox) {
+			function dataUpdate($id,$nama_profil,$judul,$provinsi,$kota,$alamat,$foto,$lokasi,$fb,$ig,$fotox) {
 				$koneksi = $this->koneksi;
 				// SQL
 				if(empty($fotox))
@@ -122,7 +122,6 @@
 								provinsi	= '$provinsi',
 								kota        = '$kota',
 								fb 			= '$fb',
-								twitter		= '$twitter',
 								ig 			= '$ig'
 							   WHERE id	= '$id'";
 				
@@ -179,7 +178,6 @@
 								kota        = '$kota',
 								logo		= '$id_f',
 								fb 			= '$fb',
-								twitter		= '$twitter',
 								ig 			= '$ig'
 							   WHERE id	= '$id'";
 				

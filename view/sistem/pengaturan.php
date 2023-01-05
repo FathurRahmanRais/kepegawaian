@@ -148,21 +148,6 @@ if ($_SESSION['level_simpeg']=="admin") {
                   <td width="18%"></td>
                   <td width="15%">
                   <div class="form-group">
-                    <b>Twitter</b>
-                    </div>
-                  </td>
-                  <td width="2%"><div class="form-group">:</div></td>
-                  <td width="18%">
-                  <div class="form-group">
-                   <input class="form-control" name="twitter" placeholder="@twitter" value="<?php echo $row_data['twitter'];?>">
-                    </div>
-                  </td>
-                  <td width="10%"></td>
-                </tr>
-                <tr>
-                  <td width="18%"></td>
-                  <td width="15%">
-                  <div class="form-group">
                     <b>logo Objek</b>
                     </div>
                   </td>

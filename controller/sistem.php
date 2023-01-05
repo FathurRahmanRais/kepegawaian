@@ -92,13 +92,12 @@
 				$provinsi 				= $_POST['provinsi'];
 				$ig 					= $_POST['ig'];
 				$fb 					= $_POST['fb'];
-				$twitter 				= $_POST['twitter'];
 				
 
 				
 				// DARI MODEL
 				// MENGARAH KE METHOD DI CLASS MODEL PENDUDUK
-				$data			= $this->sistem->dataUpdate($id,$nama_profil,$judul,$provinsi,$kota,$alamat,$foto,$lokasi,$fb,$twitter,$ig,$fotox);
+				$data			= $this->sistem->dataUpdate($id,$nama_profil,$judul,$provinsi,$kota,$alamat,$foto,$lokasi,$fb,$ig,$fotox);
 				
 				// DARI VIEW
 				// MENGARAHKAN KE FILE VIEW/SELECT.PHP
