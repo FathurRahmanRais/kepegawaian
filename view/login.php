@@ -35,7 +35,7 @@
     <link rel="shortcut icon" href="logo/2_ikon_Logo_lampura.png">
 
 </head>
-<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(logo/bg21.jpg)no-repeat center center fixed;-webkit-background-size: cover;
+<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(logo/313782.jpg)no-repeat center center fixed;-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;">
