@@ -18,7 +18,6 @@
 				// INSTANSIASI CLASS MODEL PENDUDUK
 				$this->user	= new model_user();
 				$this->sistem	= new model_sistem();
-				
 			}
 			
 		// FUNCTION UNTUK MENANGANI PROSES SELECT
