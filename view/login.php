@@ -54,6 +54,7 @@
     </td>
 </tr>
 </table>
+<div calss="md-6"><</div>
 
 
 <div class="col-md-8 col-lg-4"></div>
