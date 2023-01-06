@@ -239,20 +239,6 @@ $row_data= mysqli_fetch_array($data);
           <a href="index.php?controller=mutasi&method=select">
             <i class="fa fa-line-chart"></i> <span>Data Mutasi</span>
           </a>
-        </li>
-        <li class="treeview">
-          <a href="#">
-            <i class="fa fa-whatsapp"></i> <span>Whatsapp</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="index.php?controller=wa&method=pemberitahuan"><i class="fa fa-circle-o"></i> Pemberitahuan Kenaikan</a></li>
-            <li><a href="index.php?controller=wa&method=kirim"><i class="fa fa-circle-o"></i> Kirim Pesan</a></li>
-            <li><a href="index.php?controller=wa&method=setting"><i class="fa fa-circle-o"></i> Setting</a></li>
-          </ul>
-        </li>
         <li>
           <a href="index.php?controller=sistem&method=pengaturan">
             <i class="fa fa-gear"></i> <span>Pengaturan</span>
