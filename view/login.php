@@ -35,16 +35,16 @@
     <link rel="shortcut icon" href="logo/2_ikon_Logo_lampura.png">
 
 </head>
-<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(logo/bg21.jpg)no-repeat center center fixed;-webkit-background-size: cover;
+<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(logo/313782.jpg)no-repeat center center fixed;-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;">
 
 <body class="hold-transition login-page" style="background: linear-gradient(to right,#87CEFA, #48D1CC);">
 <br>
-<table width="100%"> 
+<table width="100%">
 <tr>
-    <td align="center" width="15%">         
+    <td align="center" width="15%">
          <img src="logo/2_ikon_Logo_lampura.png" style="width: 100px;">
     </td>
     <td width="85%">
@@ -56,11 +56,11 @@
 </table>
 
 
-<div class="col-md-8 col-lg-8"></div>
+<div class="col-md-8 col-lg-4"></div>
 <div class="col-md-4 col-lg-4">
   <!-- /.login-logo -->
-  <div class="box box-info">
-            <div class="box-header with-border bg-blue">
+  <div class="box">
+            <div class="box-header with-border bg-orange">
              <center> <h3 class="box-title">Form Login</h3></center>
             </div>
             <br>

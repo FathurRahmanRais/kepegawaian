@@ -148,7 +148,7 @@ if ($_SESSION['level_simpeg']=="admin") {
                   <td width="18%"></td>
                   <td width="15%">
                   <div class="form-group">
-                    <b>logo Objek</b>
+                    <b>Logo Objek</b>
                     </div>
                   </td>
                   <td width="2%"><div class="form-group">:</div></td>

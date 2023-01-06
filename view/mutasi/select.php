@@ -33,7 +33,7 @@ if ($_SESSION['level_simpeg']=="admin") {
                                 <thead>
                                     <tr class="odd bg-gray">
                                         <th rowspan="2" width="1%" valign="top">No</th>
-                                        <th rowspan="2"><center>Nip</center></th>
+                                        <th rowspan="2"><center>NIP</center></th>
                                         <th rowspan="2"><center>Nama Pegawai</center></th>
                                         <th rowspan="2"><center>Jabatan</center></th>
                                         <th rowspan="2">
