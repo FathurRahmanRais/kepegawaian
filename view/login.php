@@ -100,7 +100,7 @@
                 </div>
                 <div class="form-group" style="padding-left: 20px;padding-right: 20px;">
                   <center>
-                        <button type="submit" class="btn btn-primary block  m-b">Masuk</button></center><br>
+                        <button type="submit" class="btn btn-warning block  m-b">Masuk</button></center><br>
                         <a href="daftar" class="pull-left">Buat Akun</a>
                         <a href="lost" class="pull-right">Lupa Password?</a>
                         <br>
