@@ -54,8 +54,8 @@
     </td>
 </tr>
 </table>
-<div class="md-4"><</div>
 
+<div class="md-4"><</div>
 <div class="col-md-8 col-lg-4"></div>
 <div class="col-md-4 col-lg-4">
   <!-- /.login-logo -->

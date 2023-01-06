@@ -37,7 +37,7 @@
     <link rel="shortcut icon" href="../logo/bm11.png">
 
 </head>
-<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/bg22.png)no-repeat center center fixed;-webkit-background-size: cover;
+<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/bg21.png)no-repeat center center fixed;-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;">
