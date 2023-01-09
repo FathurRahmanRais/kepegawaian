@@ -107,7 +107,7 @@
 				$token = $data_token['token'];
 
 
-				$curlAPICall = curl_init();
+				$curl = curl_init();
 
 				curl_setopt($curl, CURLOPT_HTTPHEADER,
 				    array(
