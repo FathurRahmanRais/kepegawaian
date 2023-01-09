@@ -36,8 +36,7 @@ if ($_SESSION['level_simpeg']=="admin") {
                                         <th rowspan="2"><center>NIP</center></th>
                                         <th rowspan="2"><center>Nama Pegawai</center></th>
                                         <th rowspan="2"><center>Jabatan</center></th>
-                                        <th rowspan="2">
-                                            <center>Pangkat/Golongan
+                                        <th rowspan="2"><center>Pangkat/Golongan
                                                     <br>TMT
                                             </center></th>
                                         <th colspan="4"><center>Perkembangan Mutasi</center></th>
@@ -233,7 +232,7 @@ if ($_SESSION['level_simpeg']=="admin") {
                                                     <br> TMT
                                             </center>
                                         </th>
-                                        <th width="20%">
+                                        <th width="25%">
                                             <center>Pensuinan
                                                     <br> TMT
                                             </center>
