@@ -519,7 +519,6 @@
                                                 echo "<option value='$row_s[keterangan]'>SK.$row_s[keterangan]</option>"; 
                                               }
                                             ?>
-                                        <option value="SK KGB">SK KGB</option>
                                     </select>
                                     </div>
                                 </td>

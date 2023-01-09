@@ -27,7 +27,7 @@
 				// MODEL
 				// MENGARAH KE METHOD DI CLASS MODEL AGAMA
 				$data			        = $this->sistem->dataHome();
-				$data_pegawai				= $this->mutasi->dataSelect();
+				$data_pegawai			= $this->mutasi->dataSelect();
 
 				
 				// VIEW
