@@ -318,7 +318,7 @@
                                 <td width="3%"></td>
                                 <td>
                                     <div class="form-group">
-                                    Jabatan Strukural
+                                    Jabatan
                                     </div>
                                 </td>
                                 <td>
@@ -329,7 +329,7 @@
                                 <td>
                                     <div class="form-group">
                                         <select name="jabatan" id="jabatan" class="form-control select2">
-                                        <option value=" ">- Pilih Jabatan Struktural -</option>
+                                        <option value=" ">- Pilih Jabatan -</option>
                                         <option value=" ">Kosong</option>
                                         <?php
                                           include ("config/koneksi.php");
@@ -638,7 +638,7 @@
     }
     if (document.kategori.jabatan.selectedIndex==0)
     {
-      alert("Pilih Jabatan Strukural");
+      alert("Pilih Jabatan");
       document.kategori.jabatan.focus();
       return false;
     }

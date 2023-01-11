@@ -256,7 +256,7 @@
                                 <td ></td>
                                 <td>
                                     <div class="form-group">
-                                    Jabatan Strukural
+                                    Jabatan
                                     </div>
                                 </td>
                                 <td>
