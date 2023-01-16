@@ -233,7 +233,7 @@ if ($_SESSION['level_simpeg']=="admin") {
                                             </center>
                                         </th>
                                         <th width="25%">
-                                            <center>Pensuinan
+                                            <center>Pensiunan
                                                     <br> TMT
                                             </center>
                                         </th>
