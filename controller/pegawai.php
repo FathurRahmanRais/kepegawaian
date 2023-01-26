@@ -85,7 +85,6 @@
 				$data_detail   			= $this->pegawai->dataDetail($nip);
 				$data_anak   			= $this->pegawai->dataAnak($nip);
 
-				
 				// VIEW
 				// MENGARAHKAN KE FILE VIEW/SELECT.PHP
 				include "view/dashboard.php";

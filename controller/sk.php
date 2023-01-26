@@ -80,21 +80,19 @@
 				// MENGARAHKAN KE FILE VIEW/SELECT.PHP
 				// JIKA HASIL PROSES UPDATE BERHASIL
 				if($data 		== TRUE) {
-					echo "<script> 
-						  window.location = 'index.php?controller=sk&method=sk'; 
+					echo "<script>
+						  window.location = 'index.php?controller=sk&method=sk';
 						  </script>";
-				
-				} 
+				}
 				// MENGARAHKAN KE FILE VIEW/UPDATE.PHP
 				// JIKA HASIL PROSES UPDATE GAGAL
 				else {
 					echo "<script> 
 						  alert('Proses Update Gagal!');
-						  window.location = 'index.php?controller=sk&method=sk'; 
+						  window.location = 'index.php?controller=sk&method=sk';
 						  </script>";
 				}
 			}
-		
 		// FUNCTION UNTUK MENANGANI PROSES DELETE
 			function delete_sk() {
 				// DARI CONTROLLER

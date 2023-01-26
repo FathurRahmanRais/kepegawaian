@@ -184,7 +184,7 @@
   </tr>
   <tr>
         <td width="13%">Gaji Pokok</td>
-        <td width="13%">Tunj. Hselon</td>
+        <td width="13%">Tunj. Eselon</td>
         <td width="12%">Tunj. Terpencil</td>
         <td width="12%">Tunj. BPJS</td>
         <td width="12%">Pot. Pajak</td>

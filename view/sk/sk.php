@@ -6,7 +6,7 @@ if ($_SESSION['level_simpeg']=="admin") {
             <!-- INI UNTUK JUDUL -->
             <section class="content-header">
               <h1>
-                Data SK 
+                Data SK
               </h1>
               <ol class="breadcrumb">
                 <li><a href="?controller=sistem&method=home"><i class="fa fa-dashboard"></i> Dashboard</a></li>
@@ -124,7 +124,7 @@ if ($_SESSION['level_simpeg']=="admin") {
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span></button>
-                <center><h4 class="modal-title">Tambah Data Sk</h4></center>
+                <center><h4 class="modal-title">Tambah Data SK</h4></center>
               </div>
               <form role="form" method="POST" action="index.php?controller=sk&method=insert_sk" enctype="multipart/form-data">
                   <table width="100%" class="modal-body">

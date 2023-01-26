@@ -167,7 +167,7 @@ $data_pegawai = mysqli_fetch_array($sql);
   </tr>
   <tr>
         <td width="13%" style="padding-left: 3px;">Gaji Pokok</td>
-        <td width="13%" style="padding-left: 3px;">Tunj. Hselon</td>
+        <td width="13%" style="padding-left: 3px;">Tunj. Eselon</td>
         <td width="12%" style="padding-left: 3px;">Tunj. Terpencil</td>
         <td width="12%" style="padding-left: 3px;">Tunj. BPJS</td>
         <td width="12%" style="padding-left: 3px;">Pot. Pajak</td>
