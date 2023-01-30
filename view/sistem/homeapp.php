@@ -2,9 +2,7 @@
 
 <!-- INI UNTUK JUDUL -->
             <section class="content-header">
-              <h1>Dashboard
-                <small>Control panel</small>
-              </h1>
+              <h1>Dashboard</h1>
               <ol class="breadcrumb">
                 <li><a href="proses.php?valid=sistem&method=homeapp"><i class="fa fa-dashboard"></i> Home</a></li>
                 <li class="active"></i>Dashboard</li>
@@ -13,7 +11,7 @@
             <section class="content-header">
             <section class="content-header bg-teal" style="border-radius: 5px;">
             
-            <marquee><b>Selamat Datang Di Sistem Informasi Kenaikan Pangkat, Kenaikan Gaji Berkala dan Arsip Kepegawaian (SEPAKAT BERKAWAN) <?php
+            <marquee><b>Selamat Datang Di Sistem Informasi Kepegawaian<?php
           echo $row_data['nama'];
       ?> <?php
           echo $row_data['instansi'];
@@ -26,10 +24,10 @@
             <table width="100%"> 
             <tr>
                 <td align="center" width="15%">         
-                     <img src="logo/bm.png" style="width: 100px;">
+                     <img src="logo/2_ikon_Logo_lampura.png" style="width: 100px;">
                 </td>
                 <td width="85%">
-                 <h2><b style="color: orange;">Sistem Informasi Kenaikan Pangkat, Kenaikan Gaji Berkala dan Arsip Kepegawaian (SEPAKAT BERKAWAN) <?php echo $row_data['nama'];?><br>
+                 <h2><b style="color: orange;">Sistem Informasi Kepegawaian<?php echo $row_data['nama'];?><br>
                  <?php echo $row_data['instansi'];?></b></h2>
                  <p style="color: black;text-shadow: 0 0 5px white;"><b><?php echo $row_data['alamat'];?></b></p>
                 </td>
