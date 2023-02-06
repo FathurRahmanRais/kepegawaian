@@ -716,7 +716,7 @@ $(".input-group.date").datepicker({autoclose: true, todayHighlight: true});
 </script>
 <script type="text/javascript">
      
-     function printDiv(elementId) {
+    function printDiv(elementId) {
     var a = document.getElementById('print-area-2').value;
     var b = document.getElementById(elementId).innerHTML;
     window.frames["print_frame"].document.title = document.title;

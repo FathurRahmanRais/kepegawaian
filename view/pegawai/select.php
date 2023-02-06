@@ -15,7 +15,6 @@
             <?php 
             if($_SESSION['level_simpeg']=="admin"){?>
              <a href="index.php?controller=pegawai&method=insert" class="btn btn-md btn-info" data-toggle="tooltip" data-placement="top" title="Tambah Data"><i class="fa fa-plus fa-fw"></i>Tambah Data</a>
-             <a href="laporan/cetak_pegawai.php" target="_blank" class="btn btn-md btn-primary pull-right" data-toggle="tooltip" data-placement="top" title="Cetak"><i class="fa fa-print"></i></a>
              <br>
              <br>
              <?php } ?>

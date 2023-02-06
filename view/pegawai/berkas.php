@@ -32,7 +32,6 @@ date_default_timezone_set('Asia/Jakarta');
                <input name="pencetak" type="hidden" value="<?php echo $_SESSION['nama_simpeg'];?>"></input>
                <input name="nip_cetak" type="hidden" value="<?php echo $row_data2['nip'];?>"></input>
                <input name="nip" type="hidden" value="<?php echo $row_detail['nip'];?>"></input>
-               <button class="btn btn-md btn-primary" name="ctk" data-toggle="tooltip" data-placement="top" title="Data Pegawai"><i class="fa fa-print fa-fw"></i>Cetak</button>
              </form>
              </div>
 

@@ -33,7 +33,6 @@
                <input name="pencetak" type="hidden" value="<?php echo $_SESSION['nama_simpeg'];?>"></input>
                <input name="nip_cetak" type="hidden" value="<?php echo $row_data2['nip'];?>"></input>
                <input name="nip" type="hidden" value="<?php echo $row_pegawai['nip'];?>"></input>
-               <button class="btn btn-md btn-primary" name="ctk" data-toggle="tooltip" data-placement="top" title="Data Pegawai"><i class="fa fa-print fa-fw"></i>Cetak</button>
              </form>
              </div>
 
@@ -91,7 +90,6 @@
                                         <th width="10%"><center>
                                         <button type="submit" name="cari" class="btn btn-info btn-xs" title="Cari"><i class="fa fa-search fa-fw"></i></button>
 
-                                        <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#modal-danger"><li class="fa fa-print"></li></button>
 
                                         </center>
                                         </th>

@@ -75,7 +75,6 @@ $data_pegawai = mysqli_fetch_array($sql);
                                         <th width="10%"><center>
                                         <button type="submit" name="cari" class="btn btn-info btn-xs" title="Cari"><i class="fa fa-search fa-fw"></i></button>
 
-                                        <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#modal-danger"><li class="fa fa-print"></li></button>
 
                                         </center>
                                         </th>
