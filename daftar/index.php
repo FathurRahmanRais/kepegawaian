@@ -34,10 +34,10 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    <link rel="shortcut icon" href="../logo/bm.png">
+    <link rel="shortcut icon" href="../logo/2_ikon_Logo_lampura.png">
 
 </head>
-<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/bg21.jpg)no-repeat center center fixed;-webkit-background-size: cover;
+<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/313782.jpg)no-repeat center center fixed;-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;">
@@ -61,7 +61,7 @@
 <div class="col-md-8 col-lg-8">
   <!-- /.login-logo -->
   <div class="box box-info">
-            <div class="box-header with-border bg-blue">
+            <div class="box-header with-border bg-orange">
              <center> <h3 class="box-title">Form Daftar</h3></center>
             </div>
             <br>

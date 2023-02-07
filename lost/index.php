@@ -34,10 +34,10 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    <link rel="shortcut icon" href="../logo/bm11.png">
+    <link rel="shortcut icon" href="../logo/2_ikon_Logo_lampura.png">
 
 </head>
-<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/bg21.png)no-repeat center center fixed;-webkit-background-size: cover;
+<body style="background: linear-gradient(to right,#60CEFF, #48D1CC);background: url(../logo/313782.jpg)no-repeat center center fixed;-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;">
@@ -50,7 +50,7 @@
          <img src="" style="width: 100px;">
     </td>
     <td width="85%">
-     <h2><b style="color: orange;">Sistem Kepegawaian <?php echo $home['nama'];?><br>
+     <h2><b style="color: white;">Sistem Kepegawaian <?php echo $home['nama'];?><br>
      <?php echo $home['instansi'];?></b></h2>
      <p style="color: black;text-shadow: 0 0 5px white;"><b><?php echo $home['alamat'];?></b></p>
     </td>
@@ -61,7 +61,7 @@
 <div class="col-md-4 col-lg-4">
   <!-- /.login-logo -->
   <div class="box box-info">
-            <div class="box-header with-border bg-blue">
+            <div class="box-header with-border bg-orange">
              <center> <h3 class="box-title">Ubah Password</h3></center>
             </div>
             <br>
@@ -98,7 +98,7 @@
                         </table>
                         <hr>
                          <div class="form-group">
-                        <a href="http://localhost/Simpeg DLH/" class="pull-left">Home</a>
+                        <a href="../index.php" class="pull-left">Home</a>
                         <button type="submit" class="btn btn-primary block pull-right">Simpan</button>
                         <br>
                         </div>
