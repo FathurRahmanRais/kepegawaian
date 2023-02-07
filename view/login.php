@@ -111,6 +111,9 @@
                     <a href="https://www.facebook.com/<?php echo $home['fb'];?>" target="_blank" title="Facebook" class="btn btn-primary" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-facebook"></i></a>
                     <i class="fa fa-fw"></i>
 
+                    <a href="mailto:inspektorat@lampungutarakab.go.id" target="_blank" title="Email" class="btn btn-primary" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-mail"></i></a>
+                    <i class="fa fa-fw"></i>
+
                     <i class="fa fa-fw"></i>
                     <a href="https://www.instagram.com/<?php echo $home['ig'];?>" title="Instagram" target="_blank" class="btn btn-danger" style="border-radius: 100px;width: 38px;height: 38px"><i class="fa fa-instagram"></i></a>
               </div>
