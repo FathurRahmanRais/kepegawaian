@@ -738,7 +738,7 @@ $(".input-group.date").datepicker({autoclose: true, todayHighlight: true});
   }
     else {
         echo "<script> 
-               alert('Maaf Data Nip Tidak Ada'); 
+               alert('Maaf Data NIP Tidak Ada'); 
                window.location = 'http://localhost/Simpeg/';
               </script>";
     }

@@ -48,7 +48,7 @@ if($_SESSION['level_simpeg']=="user"){
                                     <tr class="odd bg-gray">
                                         <th width="1%">No</th>
                                         <th width="15%"><center>Tanggal Berkas</center></th>
-                                        <th><center>Keteranganx</center></th>
+                                        <th><center>Keterangan</center></th>
                                         <th width="15%"><center>Lampiran</center></th>
                                         <th width="13%"><center>Aksi</center></th>
                                     </tr>

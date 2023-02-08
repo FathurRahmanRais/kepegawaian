@@ -89,7 +89,6 @@ date_default_timezone_set('Asia/Jakarta');
                                     <input type="hidden" name="nip" value="<?php echo $row_pegawai['nip'];?>"></input>
                                     <input type="hidden" name="bulan" value="<?php echo $bulan;?>"></input>
                                     <input type="hidden" name="tahun" value="<?php echo $tahun;?>"></input>
-                                    <button class="btn btn-primary btn-xs" data-toggle="tooltip" data-placement="top" title="Cetak"><i class="fa fa-print"></i></button>
                                 </form>
                                 </div>
                                 <div class="pull-right" style="padding-right: 20px;">
