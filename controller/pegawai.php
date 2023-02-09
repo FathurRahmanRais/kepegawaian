@@ -98,8 +98,8 @@
 
 
 				$data			        = $this->sistem->dataHome();
-				$data_pegawai   			= $this->pegawai->dataDetail($nip);
-				$data_pegawai2   			= $this->pegawai->dataDetail($nip);
+				$data_pegawai   		= $this->pegawai->dataDetail($nip);
+				$data_pegawai2   		= $this->pegawai->dataDetail($nip);
 
 				// VIEW
 				// MENGARAHKAN KE FILE VIEW/SELECT.PHP

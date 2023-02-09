@@ -40,11 +40,11 @@
 				$keterangan		= $_POST['berkas'];
 				$tgl 			= $_POST['tgl'];
 
-				$fotox   				= $_FILES['gambar']['name'];
-				$lokasi 				= $_FILES['gambar']['tmp_name'];
-				$tipe                   = $_FILES['gambar']['type'];
+				$fotox   		= $_FILES['gambar']['name'];
+				$lokasi 		= $_FILES['gambar']['tmp_name'];
+				$tipe           = $_FILES['gambar']['type'];
 
-				$foto 					= $nip.'_'.$fotox;
+				$foto 			= $nip.'_'.$fotox;
 				
 
 				if ($tipe== "image/png") {
